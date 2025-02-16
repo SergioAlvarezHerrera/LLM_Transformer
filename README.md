@@ -8,7 +8,7 @@ Sigue estos pasos para instalar y ejecutar el chatbot en tu máquina:
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/LLM_Transformer.git
+git clone https://github.com/SergioAlvarezHerrera/LLM_Transformer.git
 cd LLM_Transformer
 ```
 
