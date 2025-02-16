@@ -37,12 +37,3 @@ Esto abrirá la interfaz en tu navegador.
 2. El chatbot analizará si el sentimiento es **positivo** o **negativo**.
 3. Se mostrará el resultado junto con la confianza del modelo.
 
-## 🖼️ Captura de Pantalla
-![Chatbot Sentiment Analysis](https://user-images.githubusercontent.com/12345678/example.png) *(Opcional: Puedes subir una captura de pantalla del chatbot en acción)*
-
-## 📜 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
-
----
-
-📌 **Nota:** Reemplaza `tu-usuario` por tu nombre de usuario de GitHub y cambia la imagen en la sección "Captura de Pantalla" si quieres añadir una captura real.
